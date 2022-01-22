@@ -1,0 +1,241 @@
+[ {
+  "buildOrder" : 165,
+  "reportUrl" : "http://10.191.73.214:8080/job/regression%20testing/165/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 0,
+    "unknown" : 0,
+    "total" : 0
+  }
+}, {
+  "buildOrder" : 164,
+  "reportUrl" : "http://10.191.73.214:8080/job/regression%20testing/164/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 3,
+    "unknown" : 0,
+    "total" : 3
+  }
+}, {
+  "buildOrder" : 163,
+  "reportUrl" : "http://10.191.73.214:8080/job/regression%20testing/163/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 3,
+    "unknown" : 0,
+    "total" : 3
+  }
+}, {
+  "buildOrder" : 162,
+  "reportUrl" : "http://10.191.73.214:8080/job/regression%20testing/162/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 6,
+    "skipped" : 0,
+    "passed" : 4,
+    "unknown" : 0,
+    "total" : 10
+  }
+}, {
+  "buildOrder" : 161,
+  "reportUrl" : "http://10.191.73.214:8080/job/regression%20testing/161/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 0,
+    "unknown" : 0,
+    "total" : 0
+  }
+}, {
+  "buildOrder" : 160,
+  "reportUrl" : "http://10.191.73.214:8080/job/regression%20testing/160/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 3,
+    "unknown" : 0,
+    "total" : 3
+  }
+}, {
+  "buildOrder" : 159,
+  "reportUrl" : "http://10.191.73.214:8080/job/regression%20testing/159/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 3,
+    "unknown" : 0,
+    "total" : 3
+  }
+}, {
+  "buildOrder" : 158,
+  "reportUrl" : "http://10.191.73.214:8080/job/regression%20testing/158/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 3,
+    "unknown" : 0,
+    "total" : 3
+  }
+}, {
+  "buildOrder" : 157,
+  "reportUrl" : "http://10.191.73.214:8080/job/regression%20testing/157/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 4,
+    "unknown" : 0,
+    "total" : 4
+  }
+}, {
+  "buildOrder" : 156,
+  "reportUrl" : "http://10.191.73.214:8080/job/regression%20testing/156/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 3,
+    "unknown" : 0,
+    "total" : 3
+  }
+}, {
+  "buildOrder" : 155,
+  "reportUrl" : "http://10.191.73.214:8080/job/regression%20testing/155/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 4,
+    "unknown" : 0,
+    "total" : 4
+  }
+}, {
+  "buildOrder" : 154,
+  "reportUrl" : "http://10.191.73.214:8080/job/regression%20testing/154/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 3,
+    "unknown" : 0,
+    "total" : 3
+  }
+}, {
+  "buildOrder" : 153,
+  "reportUrl" : "http://10.191.73.214:8080/job/regression%20testing/153/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 4,
+    "unknown" : 0,
+    "total" : 4
+  }
+}, {
+  "buildOrder" : 152,
+  "reportUrl" : "http://10.191.73.214:8080/job/regression%20testing/152/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 3,
+    "unknown" : 0,
+    "total" : 3
+  }
+}, {
+  "buildOrder" : 151,
+  "reportUrl" : "http://10.191.73.214:8080/job/regression%20testing/151/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 3,
+    "unknown" : 0,
+    "total" : 3
+  }
+}, {
+  "buildOrder" : 150,
+  "reportUrl" : "http://10.191.73.214:8080/job/regression%20testing/150/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 4,
+    "skipped" : 0,
+    "passed" : 0,
+    "unknown" : 0,
+    "total" : 4
+  }
+}, {
+  "buildOrder" : 149,
+  "reportUrl" : "http://10.191.73.214:8080/job/regression%20testing/149/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 4,
+    "skipped" : 0,
+    "passed" : 0,
+    "unknown" : 0,
+    "total" : 4
+  }
+}, {
+  "buildOrder" : 148,
+  "reportUrl" : "http://10.191.73.214:8080/job/regression%20testing/148/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 4,
+    "skipped" : 0,
+    "passed" : 0,
+    "unknown" : 0,
+    "total" : 4
+  }
+}, {
+  "buildOrder" : 147,
+  "reportUrl" : "http://10.191.73.214:8080/job/regression%20testing/147/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 4,
+    "skipped" : 0,
+    "passed" : 0,
+    "unknown" : 0,
+    "total" : 4
+  }
+}, {
+  "buildOrder" : 146,
+  "reportUrl" : "http://10.191.73.214:8080/job/regression%20testing/146/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 4,
+    "skipped" : 0,
+    "passed" : 0,
+    "unknown" : 0,
+    "total" : 4
+  }
+} ]

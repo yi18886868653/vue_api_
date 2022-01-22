@@ -1,0 +1,10 @@
+[ {
+  "name" : "Jenkins",
+  "type" : "jenkins",
+  "url" : "http://10.191.73.214:8080/",
+  "buildOrder" : 165,
+  "buildName" : "regression testing #165",
+  "buildUrl" : "http://10.191.73.214:8080/job/regression%20testing/165/",
+  "reportName" : "AllureReport",
+  "reportUrl" : "http://10.191.73.214:8080/job/regression%20testing/165/allure"
+} ]
